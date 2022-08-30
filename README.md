@@ -1,4 +1,4 @@
-# Typeit
+# TypeIt
 
 ## Integrantes
 Anderson Correia de Souza,<br>
