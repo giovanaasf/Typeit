@@ -25,6 +25,8 @@ Node JS com Nest.JS; <br>
 Java com Spring; <br>
 AWS; <br>
 MySQL; <br>
+## Sites Similares
+Passei Direto: https://www.passeidireto.com/ <br>
 
 
 
