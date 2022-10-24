@@ -20,10 +20,7 @@ Javascript com React JS; <br>
 Java com Spring; <br>
 AWS; <br>
 MySQL; <br>
+
 ## Sites Similares
 Passei Direto: https://www.passeidireto.com/ <br>
 GetNinjas: https://www.getninjas.com.br/ <br>
-
-
-
- 
