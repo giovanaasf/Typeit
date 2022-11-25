@@ -3,8 +3,7 @@
 ## Integrantes
 Anderson Correia de Souza,<br>
 Elaís Marques Rocha,<br>
-Giovana Andreia de Souza Freitas, <br>
-Julia Pereira de Andrade. <br>
+Giovana Andreia de Souza Freitas.<br>
 
 ## Descrição
 
@@ -24,3 +23,6 @@ MySQL; <br>
 ## Sites Similares
 Passei Direto: https://www.passeidireto.com/ <br>
 GetNinjas: https://www.getninjas.com.br/ <br>
+
+## Diagramas
+Modelo conceitual (diagrama de classes): https://lucid.app/lucidchart/c7062bef-06b3-4916-8821-bfc1ad3b0f97/edit?viewport_loc=-347%2C-88%2C2319%2C1018%2C0_0&invitationId=inv_0ca117df-4a6a-487e-be9b-2204b775fac0
