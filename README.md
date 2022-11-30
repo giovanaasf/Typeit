@@ -27,3 +27,6 @@ GetNinjas: https://www.getninjas.com.br/ <br>
 ## Diagramas
 Modelo conceitual (diagrama de classes): https://lucid.app/lucidchart/c7062bef-06b3-4916-8821-bfc1ad3b0f97/edit?viewport_loc=-347%2C-88%2C2319%2C1018%2C0_0&invitationId=inv_0ca117df-4a6a-487e-be9b-2204b775fac0 <br>
 Casos de uso: https://lucid.app/lucidchart/857ec044-ea8b-411a-a83e-ed7eb6f39cf7/edit?viewport_loc=-509%2C-154%2C2082%2C913%2C0_0&invitationId=inv_23701539-8f25-4c64-b0cb-636ddd29284b
+
+## Documento de Concepção
+https://docs.google.com/document/d/1Af6mPAr28rNBP_edEfHC-Ve6xGqkHGo0zZM07WQ7NC8/edit?usp=sharing
