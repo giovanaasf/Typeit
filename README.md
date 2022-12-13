@@ -32,5 +32,5 @@ Casos de uso: https://lucid.app/lucidchart/857ec044-ea8b-411a-a83e-ed7eb6f39cf7/
 https://docs.google.com/document/d/1Af6mPAr28rNBP_edEfHC-Ve6xGqkHGo0zZM07WQ7NC8/edit?usp=sharing
 
 ## Protótipos
-Baixa Finalidade: https://www.figma.com/file/dTg1QlomyDSCs7dqbspejd/1?node-id=0%3A1&t=OaxHpOkk8QJU4eAK-1 <br>
+Baixa Fidelidade: https://www.figma.com/file/dTg1QlomyDSCs7dqbspejd/1?node-id=0%3A1&t=OaxHpOkk8QJU4eAK-1 <br>
 Alta Fidelidade: https://www.figma.com/file/EWGCfG7OKWRIDh0jwQvQdC/Prototipo-Alta-fidelidade?node-id=0%3A1&t=XfoefLVMVMWHt1eH-1
